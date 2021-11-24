@@ -8,5 +8,7 @@ By: Ahmed Almuaybid, Abdulrahman Alrifae, Naif Alzahrani
 
 Speech recognition, also known as automatic speech recognition (ASR) or speech-to-text conversion, is the way that we can process human speech and turn it into a written format. While it's common to confuse it with voice recognition, speech recognition focuses on translating speech from verbal to textual, while voice recognition only seeks to determine the voice of the individual user. 
 This project will focus on building a speech recognition system that understands simple spoken commands. 
+
+
 Data Description
 The Speech Commands Datasets are provided by TensorFlow which includes 65,000 of 30 short words, by thousands of different people. 
