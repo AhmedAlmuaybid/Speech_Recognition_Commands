@@ -10,5 +10,8 @@ Speech recognition, also known as automatic speech recognition (ASR) or speech-t
 This project will focus on building a speech recognition system that understands simple spoken commands. 
 
 
-Data Description
+Data Description:
+
 The Speech Commands Datasets are provided by TensorFlow which includes 65,000 of 30 short words, by thousands of different people. 
+
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/code
